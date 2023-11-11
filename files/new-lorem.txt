@@ -1,0 +1,3 @@
+i am writing something to the file
+
+using stream
